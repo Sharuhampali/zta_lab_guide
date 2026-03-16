@@ -12,7 +12,7 @@ The final result is a working mini Zero Trust environment that includes **identi
 
 You can access the full interactive lab guide here:
 
-**[https://yourusername.github.io/zero-trust-lab](https://sharuhampali.github.io/zta_lab_guide/)**
+**[Live Demo](https://sharuhampali.github.io/zta_lab_guide/)**
 
 The guide contains:
 
